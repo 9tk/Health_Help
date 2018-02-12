@@ -78,7 +78,7 @@
 		else {
 			let selected = $.trim($('#menu :selected').text());
 			console.log(selected);
-			$('#form').load('input_form.html #' + selected);
+			$('#form').load('input_form.php #' + selected);
 			clickNum = 0;
 		}
 	});
