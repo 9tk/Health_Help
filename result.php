@@ -113,7 +113,7 @@
 	 <div id="case"></div>
 	 <br>
 	 <br>
-	 <div align="center"><a href="form_page.php"><img align="center" src="http://oidb.gov.in/images/back_button.png"></a></div>
+	 <div align="center"><a href="index.php"><img align="center" src="http://oidb.gov.in/images/back_button.png"></a></div>
 
 	<script>
 		$(document).ready(function() {
